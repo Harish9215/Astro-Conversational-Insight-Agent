@@ -17,6 +17,10 @@ The system demonstrates conversation ownership, intent-aware retrieval, and pers
 * Optional LLM providers (OpenAI API or Local LLM via Ollama)
 
 ---
+# Api interface
+<img width="1229" height="1267" alt="image" src="https://github.com/user-attachments/assets/c87d4201-4afb-4d69-82a0-53599f56cdd9" />
+
+---
 
 # Project Structure
 

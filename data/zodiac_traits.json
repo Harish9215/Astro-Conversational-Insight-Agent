@@ -1,0 +1,22 @@
+{
+  "Aries": {
+    "personality": "Bold, energetic and competitive.",
+    "strengths": "Leadership and courage",
+    "challenges": "Impulsive and impatient"
+  },
+  "Taurus": {
+    "personality": "Reliable and grounded.",
+    "strengths": "Patience and determination",
+    "challenges": "Stubbornness"
+  },
+  "Gemini": {
+    "personality": "Curious and expressive.",
+    "strengths": "Communication and creativity",
+    "challenges": "Restlessness"
+  },
+  "Leo": {
+    "personality": "Confident and charismatic.",
+    "strengths": "Leadership and ambition",
+    "challenges": "Pride and ego"
+  }
+}
